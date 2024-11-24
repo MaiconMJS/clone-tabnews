@@ -4,7 +4,7 @@
   "description": "Somente para estudos",
   "main": "index.js",
   "scripts": {
-    "start": "next dev",
+    "dev": "next dev",
     "lint:check": "prettier --check .",
     "lint:fix": "prettier --write ."
   },
